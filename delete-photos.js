@@ -12,7 +12,7 @@
       checkbox: ".ckGgle[aria-checked=false]",
       photoContainer: "div[jsname='fPosBb']",
       deleteButton: 'button[aria-label="Placer dans la corbeille"]',
-      confirmationButtonText: "Placer dans la corbeille",
+      confirmationButtonText: "Continuer",
     },
   };
 
